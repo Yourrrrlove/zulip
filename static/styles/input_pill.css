@@ -110,6 +110,10 @@
         content: attr(data-some-recipients-text);
         opacity: 0.5;
     }
+
+    .status_emoji {
+        margin-left: 0;
+    }
 }
 
 .deactivated-pill {
